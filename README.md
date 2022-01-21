@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaronvmeprathu
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently learning -react.js , Next.js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram- https://www.instagram.com/aaronvmeprathu/
 
