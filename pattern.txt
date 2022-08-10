@@ -1,0 +1,27 @@
+import java.util.*;
+
+public class patteren{
+    public static void main(){
+        Scanner in=new Scanner(System.in);
+        System.out.println("enter the value");
+        int n=in.nextInt();
+        int d=0,g=0,m=0;
+        for(int i=n;i>=1;i--){
+            for(int j=0;j<=i-1;j++){
+                System.out.print(" ");
+               d=n-j; 
+               g=g+1;
+            }
+            for(int k=d;k>=1;k--){
+                System.out.print("*");
+            }
+            for(int l=0;l<=g-1;l++){
+                System.out.print(" ");
+               m=n-l;
+            }
+            
+           
+            System.out.println();
+        }
+    }
+}
