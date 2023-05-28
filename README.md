@@ -23,8 +23,8 @@ Here are some of the projects I've worked on:
 Let's connect and collaborate! Reach out to me through:
 
 - 📧 [Email](mailto:aaronvmeprathu@gmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/aaronvmeprathu/))
-- 🐦 [Twitter]([https://twitter.com/yourhandle](https://twitter.com/aaronvmeprathu))
+- 💼 [LinkedIn](https://www.linkedin.com/in/aaronvmeprathu/)
+- 🐦 [Twitter](https://twitter.com/aaronvmeprathu)
 - 🌐 [Website](https://www.yourwebsite.com)
 
 ## Fun Fact
