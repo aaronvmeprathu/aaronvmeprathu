@@ -1,8 +1,8 @@
-# Hello, I'm [Aaron V Meprathu] 👋
+# Hello, I'm Aaron V Meprathu 👋
 
 ## About Me
 
-I'm a passionate [Web developer] based in [kerala]. I love [solving problems] and enjoy [Coding]. With a strong background in [JavaScript], I strive to [fix the bug].
+I'm a passionate Web developer based in kerala. I love creating apps and enjoy Coding. With a strong background in JavaScript, I strive to improve.
 
 ## My Interests
 
